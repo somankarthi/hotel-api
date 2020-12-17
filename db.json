@@ -1,0 +1,21 @@
+{
+  "food": [
+    {
+      "id": 0,
+      "name": "Meal",
+      "restaurant": "Taste in Hotel",
+      "description": "A mouth-watering honest ",
+      "ingredients": ["Rice","Sambar","Rasam","Curd","Chiecken","onion"],
+      "addresses": [
+          {
+                "addressId": 0,
+                "number": "01",
+                "line1": "Raja Street",
+                "line2": "Notti",
+                "postcode": "NG7 6SS",
+                "country": "United Kingdom"
+          }
+      ]
+    }
+]
+}
